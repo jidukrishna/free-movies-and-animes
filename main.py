@@ -1,5 +1,4 @@
 import time
-# import sepil_
 import desktop
 import os, sys
 import movie_link_finder
